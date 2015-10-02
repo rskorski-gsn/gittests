@@ -5,3 +5,4 @@ text from master
 feature2
 
 feature1
+feature1
