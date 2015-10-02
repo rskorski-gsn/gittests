@@ -2,3 +2,5 @@ dummy text
 dummy text from feature branch
 dummy text from master branch
 text from master
+feature2
+
