@@ -4,3 +4,4 @@ dummy text from master branch
 text from master
 feature2
 
+feature1
