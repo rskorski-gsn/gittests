@@ -1,0 +1,3 @@
+[submodule "gittest-submodule"]
+	path = gittest-submodule
+	url = git@github.com:rskorski-gsn/gittest-submodule.git
